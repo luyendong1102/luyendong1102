@@ -1,10 +1,7 @@
-- Hi, I’m steveDng
-- I’m interested in reading, swimming, racing :)
-- I’m currently not sure if im learning any thing 
-- I’m looking to collaborate on coding skill, funny relationship
-- How to reach me : catch me if u have email address luyendong1102@gmail.com
-
-<!---
-luyendong1102/luyendong1102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### HEll0, im Steve
+## I'm now student and back-end dev, of course kindda noob too
+- Do u like reading, swimming, driving ? I do
+- I'm currently learning Java tech and about Life
+- I'm looking for to collaborate with other back-end devs and some funny teller :)
+![Stats](https://github-readme-stats.vercel.app/api?username=luyendong1102&show_icons=true&theme=dracula)
+![Toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=luyendong1102)
